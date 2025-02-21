@@ -4,6 +4,7 @@ This is a random sampling tool using python. The current iteration of it works, 
 
 ## Roadmap
 ### Create command line version
+- Complete
 
 ### Create spreadsheet integration version
 
